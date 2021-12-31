@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="default_web_client_id" translatable="false">82495532622-aiqil7lahfebkj7mtbvj83k12cdcclc9.apps.googleusercontent.com</string>
+    <string name="gcm_defaultSenderId" translatable="false">82495532622</string>
+    <string name="google_api_key" translatable="false">AIzaSyCvYnKOnKYyUSW2cP-tutN0ts1VQEw6xvI</string>
+    <string name="google_app_id" translatable="false">1:82495532622:android:b1f5c0dfbe449f63485d1f</string>
+    <string name="google_crash_reporting_api_key" translatable="false">AIzaSyCvYnKOnKYyUSW2cP-tutN0ts1VQEw6xvI</string>
+    <string name="google_storage_bucket" translatable="false">share-photo-edcac.appspot.com</string>
+    <string name="project_id" translatable="false">share-photo-edcac</string>
+</resources>
