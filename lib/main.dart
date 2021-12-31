@@ -5,9 +5,8 @@ import 'package:km_to_miles_proov/screens/intro_screen.dart';
 import 'package:km_to_miles_proov/screens/notes.dart';
 import 'package:km_to_miles_proov/screens/prev_calc_list.dart';
 
-
 void main() {
-  runApp(const GlobeApp());
+  runApp(const GlobeApp()); //kommentaar
 }
 
 class GlobeApp extends StatelessWidget {
