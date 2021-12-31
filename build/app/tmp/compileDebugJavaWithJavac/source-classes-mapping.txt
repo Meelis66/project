@@ -1,4 +1,4 @@
 io/flutter/plugins/GeneratedPluginRegistrant.java
  io.flutter.plugins.GeneratedPluginRegistrant
-com/example/shared_photo_v_13/BuildConfig.java
- com.example.shared_photo_v_13.BuildConfig
+com/example/km_to_miles/BuildConfig.java
+ com.example.km_to_miles.BuildConfig

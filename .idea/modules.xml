@@ -2,8 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/shared_photo_v_13.iml" filepath="$PROJECT_DIR$/shared_photo_v_13.iml" />
-      <module fileurl="file://$PROJECT_DIR$/android/shared_photo_v_13_android.iml" filepath="$PROJECT_DIR$/android/shared_photo_v_13_android.iml" />
+      <module fileurl="file://$PROJECT_DIR$/km_to_miles.iml" filepath="$PROJECT_DIR$/km_to_miles.iml" />
     </modules>
   </component>
 </project>
